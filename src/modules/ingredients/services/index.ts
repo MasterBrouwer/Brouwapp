@@ -1,1 +1,1 @@
-export * from './IngredientService';
+export { IngredientService } from './IngredientService';
